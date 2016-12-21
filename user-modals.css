@@ -135,6 +135,6 @@
 
 .checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] {
   position: absolute;
-  margin-top: 3px;
+  margin-top: 2px;
   margin-left: -20px;
 }
